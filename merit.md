@@ -1,5 +1,5 @@
 # Merit
-MTR
+MRT
 
 ### What Is Merit?
 
