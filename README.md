@@ -39,6 +39,7 @@ Blog
 	- project updates and highlight community work/accomplishments
 
 ### Docs TODO
+
 	- high level 1 paragrah description of the coop => nest => flock flow
 	- catalog all Aragon Apps used in the Coop DAO Demo
 	- create tutorials/explanations for all the Apps
