@@ -62,13 +62,13 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/eggs.png`} />
+        <Logo img_src={`${baseUrl}img/aragon_sketch_logo.png`} />
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+            <Button href="https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320">Try It Out</Button>
+						<Button href={docUrl('framework/intro.html')}>Read The Docs</Button>
+            <Button href='https://forum.aragon.org/c/community'>Talk To The Community</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -98,22 +98,29 @@ class Index extends React.Component {
       <div
         className="productShowcaseSection paddingBottom"
         style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        <h2>What do you want to build?</h2>
+				<div>
+					<h4>
+						Browse the code, propose projects, and earn bounties for open issues :)
+					</h4>
+					<a href='https://github.com/aragoncoop/coop-dao-docs'>
+						<img src='/img/GitHub-Mark.png' />
+					</a>
+				</div>
       </div>
     );
 
     const TryOut = () => (
-      <Block id="try">
+      <Block id="demo">
         {[
           {
             content:
-              'To make your landing page more attractive, use illustrations! Check out ' +
-              '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
-              'The illustrations you see on this page are from unDraw.',
-            image: `${baseUrl}img/undraw_code_review.svg`,
+						'The Aragon Coop DAO is live on the Rinkeby testnet!' + 
+						'To get Rinkebey Ether go' + <a href='https://faucet.rinkeby.io'>here</a> + '.' +
+						'To explore the DAO click ' + <a href=''>here</a> + '.',
+            image: `${baseUrl}img/ethereum.png`,
             imageAlign: 'left',
-            title: 'Wonderful SVG Illustrations',
+            title: 'Coop DAO Rinkeby Demo',
           },
         ]}
       </Block>
@@ -124,10 +131,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'This is another description of how this project is useful',
+              'The Aragon Cooperative (coop) is an incubator for grass-roots intiatives within the Aragon community. We help people get their ideas off the ground. This looks like docs and education resources around Aragon apps, funding for small scale experiments, and mentorship and support from the community.',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
-            title: 'Description',
+            title: 'What is the Coop?',
           },
         ]}
       </Block>
@@ -138,10 +145,11 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
+							'Learn about how the Coop DAO works by reading the docs.',
+            image: `${baseUrl}img/doc.png`,
+
             imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
+            title: 'The Coop DAO',
           },
         ]}
       </Block>
@@ -151,16 +159,16 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: 'This is the content of my feature',
+            content: 'The Coop is built by and for the Aragon community.',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: 'Community Driven',
           },
           {
-            content: 'The content of my second feature',
+            content: 'The Coop is ready to provide resources and mentorship to help you build cool stuff with Aragon apps!.',
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: 'top',
-            title: 'Feature Two',
+            title: 'Sustainable',
           },
         ]}
       </Block>

@@ -22,8 +22,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Coop DAO Docs', // Title for your website.
-  tagline: 'Everything related to the Aragon Coop',
+  title: 'The Coop', // Title for your website.
+  tagline: 'A place for everything related to the Aragon Cooperative',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project 
 	//url: 'https://aragoncoop.github.io', // Your website URL
@@ -42,7 +42,6 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
 		{doc: 'framework/intro', label: 'Docs'},
-		{doc: 'examples/doc4', label: 'Tutorials'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],

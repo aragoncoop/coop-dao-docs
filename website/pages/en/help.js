@@ -27,7 +27,7 @@ function Help(props) {
       title: 'Browse Docs',
     },
     {
-      content: 'Ask questions about the documentation and project',
+      content: '[Ask questions](https://forum.aragon.org/c/community) about the documentation and project',
       title: 'Join the community',
     },
     {
