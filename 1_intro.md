@@ -8,3 +8,6 @@ Current brainstorms can be found here:
 - [Aragon Cooperative Workflow Proposal](https://hackmd.io/pUuLOvlQQoygsaNv0hQ8Jg?view#Aragon-Cooperative-Workflow-Proposal)
 - [Coop Workflow Brainstorm](https://hackmd.io/wWIBSkhWTgO4rGGzXdajkw?view#Coop-Workflow-Brainstorm)
 - [Coop Wishlist](https://github.com/aragoncoop/ideas)
+
+Working demo can be found here!
+- https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320
