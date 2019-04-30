@@ -1,0 +1,22 @@
+{
+  "docs": {
+		"Coop DAO Framework": [
+			"intro",
+			"membership",
+			"merit",
+			"budget",
+			"voting",
+			"bounties",
+			"allocations",
+			"payroll",
+			"success",
+			"deliverables"
+		],
+		"Aragon Apps": [
+			"aragon-apps"
+		]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}

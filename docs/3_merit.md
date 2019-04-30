@@ -1,5 +1,8 @@
-# Merit
-MRT
+---
+id: merit
+title: Merit & MRT
+sidebar_label: Merit & MRT
+---
 
 ### What Is Merit?
 

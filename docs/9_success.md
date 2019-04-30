@@ -1,4 +1,8 @@
-# Success Metrics
+---
+id: success
+title: Success Metrics
+sidebar_label: Success Metrics
+---
 
 ### How do we measure and manage the Coop DAO?
 

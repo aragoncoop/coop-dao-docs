@@ -1,4 +1,8 @@
-# Bounties
+---
+id: bounties
+title: Bounties
+sidebar_label: Bounties
+---
 
 ### How do we reward and recognize contributions?
 

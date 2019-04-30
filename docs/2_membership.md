@@ -1,5 +1,8 @@
-# Membership
-MBR
+---
+id: membership
+title: Membership & MBR
+sidebar_label: Membership & MBR
+---
 
 ### What does it mean to be a member?
 

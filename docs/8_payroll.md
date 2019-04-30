@@ -1,4 +1,8 @@
-# Payroll
+---
+id: payroll
+title: Payroll
+sidebar_label: Payroll
+---
 
 ### How do we fund ongoing work?
 

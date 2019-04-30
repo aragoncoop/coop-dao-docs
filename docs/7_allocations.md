@@ -1,4 +1,8 @@
-# Allocations
+---
+id: allocations
+title: Allocations
+sidebar_label: Allocations
+---
 
 ### Sharing is caring.
 

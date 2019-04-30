@@ -1,4 +1,8 @@
-# Voting
+---
+id: voting
+title: Voting
+sidebar_label: Voting
+---
 
 ### How can we safely minimize voting?
 

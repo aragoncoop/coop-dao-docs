@@ -1,4 +1,8 @@
-# Budget
+---
+id: budget
+title: Budget
+sidebar_label: Budget 
+---
 
 ### How do we make the whole thing sustainable?
 
