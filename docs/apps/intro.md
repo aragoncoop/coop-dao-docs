@@ -1,5 +1,5 @@
 ---
-id: aragon-apps
+id: intro
 title: Aragon Apps
 sidebar_label: Aragon Apps
 ---

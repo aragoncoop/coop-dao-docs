@@ -22,24 +22,26 @@ const users = [
 
 const siteConfig = {
   title: 'Coop DAO Docs', // Title for your website.
-  tagline: 'A website for testing',
+  tagline: 'Everything related to the Aragon Coop',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project 
+	//url: 'https://aragoncoop.github.io', // Your website URL
+	//baseUrl: '/coop-dao-docs', // Base URL for your project 
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'test-site',
-  organizationName: 'facebook',
+  projectName: 'coop-dao-docs',
+  organizationName: 'aragoncoop',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+		{doc: 'framework/intro', label: 'Docs'},
+		{doc: 'examples/doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],

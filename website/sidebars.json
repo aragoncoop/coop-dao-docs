@@ -1,19 +1,20 @@
 {
   "docs": {
 		"Coop DAO Framework": [
-			"intro",
-			"membership",
-			"merit",
-			"budget",
-			"voting",
-			"bounties",
-			"allocations",
-			"payroll",
-			"success",
-			"deliverables"
+			"framework/intro",
+			"framework/membership",
+			"framework/merit",
+			"framework/budget",
+			"framework/voting",
+			"framework/bounties",
+			"framework/allocations",
+			"framework/payroll",
+			"framework/success",
+			"framework/deliverables"
 		],
 		"Aragon Apps": [
-			"aragon-apps"
+			"apps/intro",
+			"apps/dot-voting"
 		]
   },
   "docs-other": {
