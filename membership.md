@@ -1,5 +1,5 @@
 # Membership
-- MBR
+MBR
 
 Membership is the foundation of the Coop. The Coop exists to serve it's members, the broader Aragon community, and DAOs and human coordination at large (in that order). Membership is determined by the MBR token. This is non-transferable. Any Coop member found to be transferring MBR or it's permissions will be removed from the coop immediately.
 
