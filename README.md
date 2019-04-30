@@ -2,6 +2,7 @@
 
 Docs describing the Aragon Coop DAO
 - website coming soon here: https://aragoncoop.github.io/coop-dao-docs/
+- Rinkeby demo here: https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320
 
 # TODOs
 
