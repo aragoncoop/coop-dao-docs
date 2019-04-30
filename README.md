@@ -5,41 +5,57 @@ Docs describing the Aragon Coop DAO
 
 # TODOs
 
-### Dev Tools TODO
+### Dev Tools 
 - get LiveReload working
 - publish to GitHub pages
 
-### Website Homepage TODO
+<br />
+
+### Website Homepage 
 
 Colors
 - https://github.com/aragon/aragon-ui/blob/master/src/theme/aragon.json
 - https://ui.aragon.org/colors/
 
+<br />
+
 Logo
 - https://wiki.aragon.org/design/logo/
+
+<br />
 
 Intro Sections: high level 1 paragraph descriptions with a link
 - Coop DAO
 - Coop Community 
 - Aragon Community
 
+<br />
+
 Dev Portal
 - GitHub
 - Wishlist
 - Feedback
 
+<br />
+
 Help
 - app help/feedback => aragon.chat/coopdao
 - dev help/feedback => aragon.chat/coopdaodevs
+
+<br />
 
 Footer
 - socials
 - other?
 
+<br />
+
 Blog
 - project updates and highlight community work/accomplishments
 
-### Docs TODO
+<br />
+
+### Docs 
 - high level 1 paragrah description of the coop => nest => flock flow
 - catalog all Aragon Apps used in the Coop DAO Demo
 - create tutorials/explanations for all the Apps
