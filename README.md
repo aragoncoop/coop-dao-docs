@@ -1,8 +1,9 @@
-# Coop DAO Docs
-
-### [WIP homepage](https://aragoncoop.github.io/coop-dao-docs/)
-
-### [Rinkeby demo DAO](https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320)
+<h1 align="center">Coop DAO Docs</h1>
+<h3 align="center">
+  <a href='https://aragoncoop.github.io/coop-dao-docs/'>WIP homepage</a>
+  <br>
+  <a href='https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320'>Rinkeby demo DAO</a>
+</h3>
 
 <br>
 
