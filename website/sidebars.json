@@ -1,5 +1,10 @@
 {
-  "docs": {
+	"docs-homepage": {
+		"Docs Homepage": [
+			"docshomepage"
+		]
+	},
+	"framework": {
 		"Coop DAO Framework": [
 			"framework/intro",
 			"framework/membership",
@@ -12,7 +17,7 @@
 			"framework/success",
 			"framework/deliverables"
 		]
-  },
+	},
 	"community": {
 		"Community Hub": [
 			"community/intro",
