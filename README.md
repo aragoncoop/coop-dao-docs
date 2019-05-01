@@ -1,10 +1,9 @@
 <h1 align="center">Coop DAO Docs</h1>
 <h3 align="center">
-  <br>
   <a href='https://aragoncoop.github.io/coop-dao-docs/'>WIP homepage</a>
-  <br>
+ </h3> 
+<h3 align="center">
   <a href='https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320'>Rinkeby demo DAO</a>
-  <br>
 </h3>
 
 <br><br><br>
