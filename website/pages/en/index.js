@@ -68,9 +68,15 @@ class HomeSplash extends React.Component {
 				<div className="inner">
 					<ProjectTitle siteConfig={siteConfig} />
 					<PromoSection>
-						<Button href="https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320">Try It Out</Button>
-						<Button href={docUrl('framework/intro.html')}>Read The Docs</Button>
-						<Button href='https://forum.aragon.org/c/community'>Talk To The Community</Button>
+						<Button href={docUrl('community/intro.html')}>
+							Community Hub
+						</Button>
+						<Button href="https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320">
+							DAO
+						</Button>
+						<Button href={docUrl('dev/intro.html')}>
+							Developer Hub
+						</Button>
 					</PromoSection>
 				</div>
 			</SplashContainer>
@@ -130,7 +136,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'The Aragon Cooperative (coop) is an incubator for grass-roots intiatives within the Aragon community. We help people get their ideas off the ground. This looks like docs and education resources around Aragon apps, funding for small scale experiments, and mentorship and support from the community.',
+              'The Aragon Cooperative (coop) is an incubator for grass-roots intiatives within the Aragon community. We help people get their ideas off the ground. We provide docs and education resources for Aragon apps, funding for small scale experiments, and mentorship to help you grow your ideas into their own projects.',
             image: `${baseUrl}img/eggs-w-nest.png`,
             imageAlign: 'right',
             title: 'What is the Coop?',

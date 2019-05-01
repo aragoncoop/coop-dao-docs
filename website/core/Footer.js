@@ -35,41 +35,53 @@ class Footer extends React.Component {
               />
             )}
           </a>
+
           <div>
             <h5>Docs</h5>
 						<a href={this.docUrl('framework/intro.html', this.props.language)}>
-              Getting Started (or other categories)
+              Coop DAO Framework
             </a>
-            <a href={this.docUrl('doc2.html', this.props.language)}>
-              Guides (or other categories)
+						<a href={this.docUrl('community/intro.html', this.props.language)}>
+              User Guides
             </a>
-            <a href={this.docUrl('doc3.html', this.props.language)}>
-              API Reference (or other categories)
+						<a href={this.docUrl('dev/intro.html', this.props.language)}>
+              Dev Guides
             </a>
           </div>
+
           <div>
             <h5>Community</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
               User Showcase
             </a>
             <a
-              href="http://stackoverflow.com/questions/tagged/"
+              href="https://forum.aragon.org/"
               target="_blank"
               rel="noreferrer noopener">
-              Stack Overflow
+              Aragon Community Forum
             </a>
-            <a href="https://discordapp.com/">Project Chat</a>
+						<a href="https://aragon.chat/">
+							Rocket Chat 🚀
+						</a>
+						<a href={this.docUrl('community/keybase.html', this.props.language)}>
+							Keybase Chat 🗝️
+						</a>
             <a
-              href="https://twitter.com/"
+              href="https://www.reddit.com/r/aragonproject/"
               target="_blank"
               rel="noreferrer noopener">
-              Twitter
+              Reddit
             </a>
           </div>
+
           <div>
             <h5>More</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
-            <a href="https://github.com/aragoncoop/coop-dao-docs/">GitHub</a>
+						<a href={`${this.props.config.baseUrl}blog`}>
+							Blog
+						</a>
+						<a href="https://github.com/aragoncoop/coop-dao-docs/">
+							GitHub
+						</a>
           </div>
         </section>
 

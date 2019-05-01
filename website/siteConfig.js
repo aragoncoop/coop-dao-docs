@@ -29,11 +29,11 @@ const siteConfig = {
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 	// FOR TESTING AND BUILDING LOCALLY
-	//url: 'https://your-docusaurus-test-site.com', // Your website URL
-	//baseUrl: '/', // Base URL for your project 
+	url: 'https://your-docusaurus-test-site.com', // Your website URL
+	baseUrl: '/', // Base URL for your project 
 	// FOR PUBLISHING TO GITHUB PAGES
-	url: 'https://aragoncoop.github.io', // Your website URL
-	baseUrl: '/coop-dao-docs/', // Base URL for your project 
+	//url: 'https://aragoncoop.github.io', // Your website URL
+	//baseUrl: '/coop-dao-docs/', // Base URL for your project 
 
   // Used for publishing and more
   projectName: 'coop-dao-docs',

@@ -4,4 +4,4 @@ title: Dot Voting
 sidebar_label: Dot Voting
 ---
 
-### Testing Dot Voting
+This is where we'll explore Dot Voting.

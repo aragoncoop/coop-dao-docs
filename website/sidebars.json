@@ -11,10 +11,27 @@
 			"framework/payroll",
 			"framework/success",
 			"framework/deliverables"
+		]
+  },
+	"community": {
+		"Community Hub": [
+			"community/intro",
+			"community/keybase",
+			"community/forum",
+			"community/AGPs"
+		]
+	},
+	"dev": {
+		"Dev Hub": [
+			"dev/intro",
+			"dev/bounties",
+			"dev/sustainability",
+			"dev/aragon-ecosystem"
 		],
 		"Aragon Apps": [
-			"apps/intro",
-			"apps/dot-voting"
+			"dev/apps/intro",
+			"dev/apps/dot-voting",
+			"dev/apps/todo"
 		]
-  }
+	}
 }
