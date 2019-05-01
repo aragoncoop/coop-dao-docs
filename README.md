@@ -1,5 +1,5 @@
 <h1 align="center">
-  Coop DAO Docs
+  The Coop 🐔🥚
 </h1>
 <br>
 <h3 align="center">
