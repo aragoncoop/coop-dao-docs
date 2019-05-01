@@ -122,7 +122,7 @@ class Index extends React.Component {
         {[
           {
             content:
-						'The Aragon Coop DAO is live on the Rinkeby testnet!',
+						'The Aragon Coop DAO is [live on the Rinkeby testnet!](https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320)',
             image: `${baseUrl}img/ethereum.svg`,
             imageAlign: 'left',
             title: 'Coop DAO Rinkeby Demo',
@@ -150,7 +150,7 @@ class Index extends React.Component {
         {[
           {
             content:
-							'Learn about how the Coop DAO works by reading the docs.',
+						'Learn about how the Coop DAO works by [reading the docs](docs/framework/intro.html).',
             image: `${baseUrl}img/books.svg`,
             imageAlign: 'right',
             title: 'The Coop DAO',
@@ -195,12 +195,12 @@ class Index extends React.Component {
 
       return (
         <div className="productShowcaseSection paddingBottom">
-          <h2>Who is Using This?</h2>
-          <p>We are!</p>
+          <h2>The Hatchery</h2>
+          <p>Projects built by coop members!</p>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
-              More {siteConfig.title} Users
+              Check It Out!
             </a>
           </div>
         </div>

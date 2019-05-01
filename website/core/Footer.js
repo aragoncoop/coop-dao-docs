@@ -52,13 +52,13 @@ class Footer extends React.Component {
           <div>
             <h5>Community</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
-              User Showcase
+              The Hatchery 🥚
             </a>
             <a
               href="https://forum.aragon.org/"
               target="_blank"
               rel="noreferrer noopener">
-              Aragon Community Forum
+              Aragon Community Forum 📝
             </a>
 						<a href="https://aragon.chat/">
 							Rocket Chat 🚀
@@ -70,7 +70,7 @@ class Footer extends React.Component {
               href="https://www.reddit.com/r/aragonproject/"
               target="_blank"
               rel="noreferrer noopener">
-              Reddit
+              Reddit 🙂
             </a>
           </div>
 
