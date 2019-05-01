@@ -15,7 +15,7 @@ const users = [
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
 		//image: '/img/undraw_open_source.svg',
-		image: '/img/aragon.svg',
+		image: 'img/aragon.svg',
     infoLink: 'https://forum.aragon.org/t/community-initiative-aragon-cooperative/356',
     pinned: true,
   },

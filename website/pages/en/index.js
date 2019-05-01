@@ -105,7 +105,7 @@ class Index extends React.Component {
 						Browse the code, propose projects, and earn bounties for open issues :)
 					</h4>
 					<a href='https://github.com/aragoncoop/coop-dao-docs'>
-						<img src='/img/github-logo.svg' />
+						<img src='img/github-logo.svg' />
 					</a>
 				</div>
       </div>
