@@ -70,7 +70,7 @@ class HomeSplash extends React.Component {
 					<PromoSection>
 						<Button href="https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320">Try It Out</Button>
 						<Button href={docUrl('framework/intro.html')}>Read The Docs</Button>
-						<Button href='https://forum.aragon.org/c/community'>Talk To The Community</Button>
+						<Button href='https://forum.aragon.org/'>Talk To The Community</Button>
 					</PromoSection>
 				</div>
 			</SplashContainer>
