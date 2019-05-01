@@ -1,26 +1,28 @@
 # Coop DAO Docs
 
 Docs describing the Aragon Coop DAO
-- website coming soon here: https://aragoncoop.github.io/coop-dao-docs/
+- WIP homepage here: https://aragoncoop.github.io/coop-dao-docs/
 - Rinkeby demo here: https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320
+
+<br>
 
 # TODOs
 
 ### Dev Tools 
-- get LiveReload working (apparently it works for css stuff, but not changes to the architecture of the site)
-- publish to GitHub pages
+- ✔ get LiveReload working (apparently it works for css stuff, but not changes to the architecture of the site)
+- ✔ publish to GitHub pages
 
 <br />
 
 ### Website Homepage 
 
-Colors
+✔ Colors
 - https://github.com/aragon/aragon-ui/blob/master/src/theme/aragon.json
 - https://ui.aragon.org/colors/
 
 <br />
 
-Logo
+✔ Logo
 - https://wiki.aragon.org/design/logo/
 
 <br />
@@ -47,11 +49,11 @@ Help
 
 Footer
 - socials
-- other?
+- ✔ HCL license
 
 <br />
 
-Blog
+✔ Blog
 - project updates and highlight community work/accomplishments
 
 <br />
