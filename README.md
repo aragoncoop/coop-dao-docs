@@ -7,7 +7,7 @@ Docs describing the Aragon Coop DAO
 # TODOs
 
 ### Dev Tools 
-- get LiveReload working
+- get LiveReload working (apparently it works for css stuff, but not changes to the architecture of the site)
 - publish to GitHub pages
 
 <br />
