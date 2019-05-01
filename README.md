@@ -3,7 +3,7 @@
 </h1>
 <br>
 <h3 align="center">
-  <a href='https://aragoncoop.github.io/coop-dao-docs/'>WIP homepage</a>
+  <a href='https://aragoncoop.github.io/coop-dao-docs/'>Outdated WIP homepage</a>
 </h3> 
 <br>
 <h3 align="center">
