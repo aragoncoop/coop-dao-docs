@@ -75,7 +75,8 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+	copyright: `Released under the Hive Commons License ${new Date().getFullYear()}`,
+	//copyright: `Released under the [Hive Commons License](https://github.com/1Hive/HCL) ${new Date().getFullYear()}`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

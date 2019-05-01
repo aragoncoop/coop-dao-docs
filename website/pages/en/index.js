@@ -60,18 +60,20 @@ class HomeSplash extends React.Component {
       </div>
     );
 
+		// <img src={`${baseUrl}img/aragon.svg`} />
+		// <Logo img_src={`${baseUrl}img/aragon_sketch_logo.png`} />
     return (
-      <SplashContainer>
-        <Logo img_src={`${baseUrl}img/aragon_sketch_logo.png`} />
-        <div className="inner">
-          <ProjectTitle siteConfig={siteConfig} />
-          <PromoSection>
-            <Button href="https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320">Try It Out</Button>
+			<SplashContainer>
+				<Logo img_src={`${baseUrl}img/aragon_sketch_logo.png`} />
+				<div className="inner">
+					<ProjectTitle siteConfig={siteConfig} />
+					<PromoSection>
+						<Button href="https://rinkeby.aragon.org/#/flight.aragonid.eth/0xd13a1c90050dca41082c830b94145b323791b320">Try It Out</Button>
 						<Button href={docUrl('framework/intro.html')}>Read The Docs</Button>
-            <Button href='https://forum.aragon.org/c/community'>Talk To The Community</Button>
-          </PromoSection>
-        </div>
-      </SplashContainer>
+						<Button href='https://forum.aragon.org/c/community'>Talk To The Community</Button>
+					</PromoSection>
+				</div>
+			</SplashContainer>
     );
   }
 }
@@ -80,7 +82,6 @@ class Index extends React.Component {
   render() {
     const {config: siteConfig, language = ''} = this.props;
     const {baseUrl} = siteConfig;
-
     const Block = props => (
       <Container
         padding={['bottom', 'top']}
@@ -104,7 +105,7 @@ class Index extends React.Component {
 						Browse the code, propose projects, and earn bounties for open issues :)
 					</h4>
 					<a href='https://github.com/aragoncoop/coop-dao-docs'>
-						<img src='/img/GitHub-Mark.png' />
+						<img src='/img/github-logo.svg' />
 					</a>
 				</div>
       </div>
@@ -115,10 +116,8 @@ class Index extends React.Component {
         {[
           {
             content:
-						'The Aragon Coop DAO is live on the Rinkeby testnet!' + 
-						'To get Rinkebey Ether go' + <a href='https://faucet.rinkeby.io'>here</a> + '.' +
-						'To explore the DAO click ' + <a href=''>here</a> + '.',
-            image: `${baseUrl}img/ethereum.png`,
+						'The Aragon Coop DAO is live on the Rinkeby testnet!',
+            image: `${baseUrl}img/ethereum.svg`,
             imageAlign: 'left',
             title: 'Coop DAO Rinkeby Demo',
           },
@@ -132,7 +131,7 @@ class Index extends React.Component {
           {
             content:
               'The Aragon Cooperative (coop) is an incubator for grass-roots intiatives within the Aragon community. We help people get their ideas off the ground. This looks like docs and education resources around Aragon apps, funding for small scale experiments, and mentorship and support from the community.',
-            image: `${baseUrl}img/undraw_note_list.svg`,
+            image: `${baseUrl}img/eggs-w-nest.png`,
             imageAlign: 'right',
             title: 'What is the Coop?',
           },
@@ -146,8 +145,7 @@ class Index extends React.Component {
           {
             content:
 							'Learn about how the Coop DAO works by reading the docs.',
-            image: `${baseUrl}img/doc.png`,
-
+            image: `${baseUrl}img/books.svg`,
             imageAlign: 'right',
             title: 'The Coop DAO',
           },
@@ -160,13 +158,13 @@ class Index extends React.Component {
         {[
           {
             content: 'The Coop is built by and for the Aragon community.',
-            image: `${baseUrl}img/undraw_react.svg`,
+            image: `${baseUrl}img/eggs.png`,
             imageAlign: 'top',
             title: 'Community Driven',
           },
           {
             content: 'The Coop is ready to provide resources and mentorship to help you build cool stuff with Aragon apps!.',
-            image: `${baseUrl}img/undraw_operating_system.svg`,
+            image: `${baseUrl}img/eggs-w-nest.png`,
             imageAlign: 'top',
             title: 'Sustainable',
           },
@@ -192,7 +190,7 @@ class Index extends React.Component {
       return (
         <div className="productShowcaseSection paddingBottom">
           <h2>Who is Using This?</h2>
-          <p>This project is used by all these people</p>
+          <p>all these people</p>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
