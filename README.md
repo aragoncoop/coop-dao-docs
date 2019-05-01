@@ -33,28 +33,29 @@
 
 <br />
 
-Intro Sections: high level 1 paragraph descriptions with a link
-- Coop DAO
-- Coop Community 
-- Aragon Community
+Dev Portal
+- Coop Wishlist 
+- Tutorials (explanations all Aragon Apps used in the Coop DAO Demo)
+- Links to Auturk and other Aragon community projects and dev resources (hack.aragon)
 
 <br />
 
-Dev Portal
-- GitHub
-- Wishlist
-- Feedback
+Community Portal
+- Aragon Forum
+- Keybase
+- Working Groups
 
 <br />
 
 Help
-- app help/feedback => aragon.chat/coopdao
-- dev help/feedback => aragon.chat/coopdaodevs
+- app questions/feedback => aragon.chat/coopdao
+- dev questions/feedback => aragon.chat/coopdaodevs
+- community questions => https://forum.aragon.org 
 
 <br />
 
 Footer
-- socials
+- socials => keybase, rocket, reddit
 - ✔ HCL license
 
 <br />
@@ -65,7 +66,4 @@ Footer
 <br />
 
 ### Docs 
-- high level 1 paragrah description of the coop => nest => flock flow
-- catalog all Aragon Apps used in the Coop DAO Demo
-- create tutorials/explanations for all the Apps
-- link to the source codes and project repos
+- description of the [coop => nest => flock flow](https://www.reddit.com/r/daonuts/comments/ao5umv/why_weight_minrep_token_for_community_governance/em3vat7/)
