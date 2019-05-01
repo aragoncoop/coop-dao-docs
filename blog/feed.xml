@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>The Coop Blog</title>
+        <title>The Coop 🐔🥚 Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
-        <description>The best place to stay up-to-date with the latest The Coop news and events.</description>
+        <description>The best place to stay up-to-date with the latest The Coop 🐔🥚 news and events.</description>
         <lastBuildDate>Mon, 30 Apr 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>The Coop Blog</title>
+            <title>The Coop 🐔🥚 Blog</title>
             <url>https://your-docusaurus-test-site.com/img/favicon.ico</url>
             <link>https://your-docusaurus-test-site.com/blog</link>
         </image>
