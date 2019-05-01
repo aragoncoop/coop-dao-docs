@@ -28,8 +28,21 @@
 
 <br />
 
-✔ Logo
-- https://wiki.aragon.org/design/logo/
+Logo
+- ✔ https://wiki.aragon.org/design/logo/
+- center the logo so it isn't awkwardly on the side and overlapping with the text
+
+<br />
+
+Homepage
+- add links to the sections when scroll down (docs, rinkeby, etc)
+
+<br />
+
+DAO
+- make it do all the things we want it to do
+- user onboarding (metamask, keybase, getting verified, signing stuff, voting, etc...)
+- mainnet deployment
 
 <br />
 
