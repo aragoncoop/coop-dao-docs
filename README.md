@@ -47,6 +47,7 @@ DAO
 <br />
 
 Dev Portal
+- description of the [coop => nest => flock flow](https://www.reddit.com/r/daonuts/comments/ao5umv/why_weight_minrep_token_for_community_governance/em3vat7/)
 - Coop Wishlist 
 - Tutorials (explanations all Aragon Apps used in the Coop DAO Demo)
 - Links to Auturk and other Aragon community projects and dev resources (hack.aragon)
@@ -68,7 +69,7 @@ Help
 <br />
 
 Footer
-- socials => keybase, rocket, reddit
+- ✔ Socials => keybase, rocket, reddit
 - ✔ HCL license
 
 <br />
@@ -77,6 +78,3 @@ Footer
 - project updates and highlight community work/accomplishments
 
 <br />
-
-### Docs 
-- description of the [coop => nest => flock flow](https://www.reddit.com/r/daonuts/comments/ao5umv/why_weight_minrep_token_for_community_governance/em3vat7/)
