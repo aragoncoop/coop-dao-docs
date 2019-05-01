@@ -22,7 +22,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'The Coop', // Title for your website.
+  title: 'The Coop 🐔🥚', // Title for your website.
   tagline: 'A place for everything related to the Aragon Cooperative',
 
   // For github.io type URLs, you would set the url and baseUrl like:
